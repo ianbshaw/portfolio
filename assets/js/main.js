@@ -254,7 +254,7 @@ jQuery(document).ready(function($){
     
         /*-- Headertyping effect activatioin start--*/
         var typed = new Typed('.htitle', {
-          strings: ["Dev <span>Robin</span>",'FULL <span>STACK</span>','WEB <span>DEVELOPER.</span>'],
+          strings: ["Ian <span>Bradshaw</span>",'FULL <span>STACK</span>','WEB <span>DEVELOPER.</span>'],
           typeSpeed: 50,
           backSpeed: 60,
           smartBackspace: false,
