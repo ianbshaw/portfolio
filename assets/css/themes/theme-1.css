@@ -1,0 +1,85 @@
+/*Collect Color Code For Theme Swither*/
+.logo span,
+.header-section .htitle span,
+.main-navar li.active a,
+.left-title,
+.section-title .color,
+.hobby-icon,
+.date span,
+.company-info h4,
+.single-team-wrapper:hover .service-content h4,
+.service-content h4,
+.hover-social li:hover,
+.portfolio-hover a:hover,
+.post-botom i,
+.single-blog-post:hover h3,
+.footer-social-icons i,
+.main-navar li a:hover,
+.team-member-details h4,
+li.active,
+.serivice-icon {
+    color: #F93537;
+}
+.header-section:after,
+.boxed-btn,
+.hobby-name::after,
+.hobby-name,
+.single-team-wrapper:hover .serivice-icon,
+.profile-pic::after,
+.hover-social,
+.portfolio-item::after,
+.single-testimonial-item:hover .testimonial-text,
+.owl-dots div.active,
+.read-more-btn,
+.footer-social-icons a:hover i,
+.scroll-to-top i,
+.main-navar ul li a:after,
+.contact-details:hover .serivice-icon,
+.section-title h1:after,
+.team-social-icons a:hover,
+.tem-member-details,
+.section-title h2:after
+{
+	background: #F93537;
+}
+.proggress{
+    background: #F93537 !important;
+}
+.testimonial-text::after {
+	border-top: 19px solid #F93537;
+}
+.owl-item.active.center .testimonial-text,
+.owl-item.active.center .testimonial-text i ,
+.single-testimonial-item:hover .testimonial-text,
+.single-testimonial-item:hover .testimonial-text i{
+    background: #F93537;
+}
+input[type="submit"],
+.go-down i {
+	background: #F93537;
+	border: 1px solid #F93537;
+}
+.header-section:after{
+	background: #333;
+}
+.single-team-member:hover  {
+    border: 1px solid #F93537;
+    }
+.team-social-icons a:hover:after{
+	border-top-color: #F93537;
+}
+.team-social-icons a:hover:before{
+	border-bottom-color: #F93537;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"], 
+input[type="tel"],
+input[type="url"],
+textarea{
+	border-color: #F93537;
+}
+.serivice-icon:hover,
+.contact-details:hover .serivice-icon{
+	color: #fff;
+}
